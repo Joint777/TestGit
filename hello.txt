@@ -7,3 +7,4 @@ add at TestClone
 add add add
 add at master
 add at hot-fix
+add at github
