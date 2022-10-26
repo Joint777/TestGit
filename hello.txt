@@ -5,5 +5,3 @@ hello git!!!
 add at github
 add at TestClone
 add add add
-add master
-add hot-fix
